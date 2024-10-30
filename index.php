@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1> Joaquim Martins Neto, Monalisa Nascimento de Araújo </h1>
+    <img src="imagens/pizza.png" alt="Pizza">
 </body>
 </html>
